@@ -1,0 +1,35 @@
+.codeImg {
+    position: relative;
+    top: 5px;
+    
+}
+
+body {
+    background-color: rgb(248, 232, 203);
+}
+
+#Headers {
+    background-color:rgb(225, 121, 121);
+    padding: 10px;
+    text-align: center;
+    width: 500px;
+    border-radius: 5%;
+}
+
+#Strings{
+   background-color:rgb(225, 168, 121);
+    padding: 10px;
+    text-align: center;
+    width: 500px;
+    border-radius: 5%; 
+    position: relative;
+    top: 15px;
+}
+
+p{
+    font-size: 20px;
+}
+
+h1{
+    text-decoration: underline;
+}
