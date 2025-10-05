@@ -1,46 +1,9 @@
-.codeImg {
-    position: relative;
-    top: 5px;
-    
+p {
+    font-size: 35px;
+    text-align: center;
+    padding: 50px;
 }
 
 body {
-    background-color: #f2e1c2ff;
-}
-
-#Headers {
-    background-color:rgb(225, 121, 121);
-    padding: 10px;
-    text-align: center;
-    width: 500px;
-    border-radius: 5%;
-}
-
-#Strings{
-   background-color:rgb(225, 168, 121);
-    padding: 10px;
-    text-align: center;
-    width: 500px;
-    border-radius: 5%; 
-    position: relative;
-    top: 15px;
-}
-
-#Quotations{
-   background-color:rgb(255, 249, 165);
-    padding: 10px;
-    text-align: center;
-    width: 500px;
-    border-radius: 5%; 
-    position: relative;
-    left: 600px;
-    
-}
-
-p{
-    font-size: 20px;
-}
-
-h1, h2, h3, h4, h5, h6{
-    text-decoration: underline;
+    background-color: rgb(188, 121, 233);
 }
